@@ -13,7 +13,6 @@
   
   </head>
  
-  
   <body>
     <div>
     <h2>What is Lorem Ipsum?</h2>
