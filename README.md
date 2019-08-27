@@ -1,6 +1,6 @@
 # my_test_repo
 
-<!doctype html>
+<!DOCTYPE html>
 
 <html lang="en">
 <head>
