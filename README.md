@@ -3,9 +3,8 @@
 <!DOCTYPE html>
 
 <html lang="en">
+ 
 <head>
-  
-  <title>A Simple Page</title>
   
   <meta charset="utf-8">
   <meta name="description" content="The HTML5 Herald">
@@ -13,6 +12,7 @@
   <link rel="stylesheet" href="css_readme.css">
   
   </head>
+ 
   
   <body>
     <div>
