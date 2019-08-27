@@ -4,6 +4,11 @@ h2 {
     margin-bottom: 10px;
 }
 
+@font-face {
+  font-family: myFirstFont;
+  src: url(sansation_light.woff);
+}
+
 h2 {
-    font-family: DauphinPlain;
+  font-family: myFirstFont;
 }
