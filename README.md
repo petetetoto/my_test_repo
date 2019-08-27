@@ -10,10 +10,9 @@
   
   <meta name="description" content="The HTML5 Herald">
   <meta name="author" content="SitePoint">
+  <link rel="stylesheet" href="css_readme.css">
   
   </head>
-
-  <link rel="stylesheet" href="css_readme.css">
   
   <body>
     <div>
