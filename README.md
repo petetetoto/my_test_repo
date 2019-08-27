@@ -7,10 +7,14 @@
   <meta charset="utf-8">
 
   <title>The HTML5 Herald</title>
+  
   <meta name="description" content="The HTML5 Herald">
   <meta name="author" content="SitePoint">
+  
+  </head>
 
-  <link rel="stylesheet" href="css_readme.css?v=1.0">
+  <link rel="stylesheet" href="css_readme.css">
+  
   <body>
     <div>
     <h2>What is Lorem Ipsum?</h2>
@@ -21,5 +25,4 @@
   <div>
 
 </body>
-</head>
 </html>
