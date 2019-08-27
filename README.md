@@ -10,7 +10,7 @@
   <meta name="description" content="The HTML5 Herald">
   <meta name="author" content="SitePoint">
 
-  <link rel="stylesheet" href="css/styles.css?v=1.0">
+  <link rel="stylesheet" href="css_readme.css?v=1.0">
   <body>
     <div>
     <h2>What is Lorem Ipsum?</h2>
